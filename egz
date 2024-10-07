@@ -1,0 +1,14 @@
+* {
+    font-family: Garamond;
+    background-color: mistyrose;
+    color: ;
+}
+
+
+table {
+    border-width: 1px;
+    border-color: black;
+    border-style: dashed;   
+    text-align: center; 
+}
+https://www.praktycznyegzamin.pl/inf03ee09e14/praktyka/
